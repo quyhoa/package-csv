@@ -2,7 +2,6 @@
     "name": "hoalqq/paygmo",
     "description": "Handle payment with gmo api",
     "type": "php",
-    "license": "1.0",
     "authors": [
         {
             "name": "hoalqq",
