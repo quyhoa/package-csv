@@ -1,0 +1,19 @@
+{
+    "name": "hoalqq/paygmo",
+    "description": "Handle payment with gmo api",
+    "type": "php",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "hoalqq",
+            "email": "hoalqq@runsystem.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.*",
+    },
+    "autoload": {
+        "psr-4": { "Paygmo\\" : "src/" }
+    }
+}
