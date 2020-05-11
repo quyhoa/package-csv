@@ -1,5 +1,5 @@
 <?php
-namespace paygmo;
+namespace hoalqq\paygmo;
 
 class Commoncsv
 {
